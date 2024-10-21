@@ -1,4 +1,5 @@
 # Praktikum5
+Käesolevas praktikumis lõin erinevaid kasutajaid ja gruppe. Lisasin failidele ja kaustadele õiguseid.
 ### 5-1
 a) Kaustal r-x õigused. Failil r-- <br>
 b) Kaustal rwx õigused. Faili kustutamiseks ei ole eraldi õiguseid vaja. <br>
