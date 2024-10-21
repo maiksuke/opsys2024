@@ -1,7 +1,7 @@
 # Praktikum5
 ### 5-1
 a) Kaustal r-x õigused. Failil r-- <br>
-b) Kaustal rwx õigused. Faii kustutamiseks ei ole eraldi õiguseid vaja. <br>
+b) Kaustal rwx õigused. Faili kustutamiseks ei ole eraldi õiguseid vaja. <br>
 
 ### 5-2 
 Annab ainult käivitamisõiguse aga on vaja ka lugemisõigust.
