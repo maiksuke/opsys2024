@@ -26,7 +26,6 @@ Käesolevas praktikumis lahendasin ülesandeid windowsis ja linuxis. Õppisin pr
 
 
 #### 12. <br>
-![Screenshot 2024-11-06 021633](https://github.com/user-attachments/assets/aa547c0d-b219-4e1e-973c-68af7a5e95c1)
- <br>
+![Screenshot 2024-11-06 021633](https://github.com/user-attachments/assets/0db10467-a110-41bf-ba68-d503b25b712b)<br>
 #### 14. <br>
-![Screenshot 2024-11-05 235130](https://github.com/user-attachments/assets/45a4cfc8-282c-45e0-9b48-a2ee30d177f1)
+![Screenshot 2024-11-05 235130](https://github.com/user-attachments/assets/f18f97f7-a600-4101-bf2f-79f77bc7aff8)
