@@ -1,5 +1,5 @@
 # Praktikum11
-
+Selle praktikumiga õppisin tundma SMTP protokolli ja e-kirjade saatmise põhitõdesid käsurea tööriistade abil. Praktikas saatsin telneti kaudu testkiri, kasutades korrektseid päiseid ja vormingut. <br>
 
 #### 1a, 1b <br>
 <img width="591" alt="Screenshot 2024-11-30 at 16 00 56" src="https://github.com/user-attachments/assets/4d39d944-9c2f-4128-ad44-f98b6511f1a2">
