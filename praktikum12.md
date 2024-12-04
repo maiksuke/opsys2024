@@ -22,14 +22,14 @@ echo "Matrikli number: $matriklinumber"
 ```
 #!/bin/bash
 
-laiend_a=$1
-laiend_b=$2
+fail1=$1
+fail2=$2
 
 for fail in $(ls)
 do
-    if [ ${fail##*.} = $laiend_a ] 
+    if [ ${fail##*.} = $fail1 ] 
     then
-        mv $fail ${fail%.*}.$laiend_b
+        mv $fail ${fail%.*}.$fail2
     fi
 done
 ```
