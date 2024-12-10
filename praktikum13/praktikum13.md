@@ -1,4 +1,5 @@
-'''
+#praktikum13
+```
 #$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
 #$sisu:	väljastatav sisu
@@ -35,6 +36,4 @@ Valjasta 7 "Arvutis olevad kasutajad" (Get-LocalUser | Select-Object -Property N
 Valjasta 8 "Käimas olevad protsesside arv" ((Get-Process).count)
 Valjasta 9 "Viimased 10 protsessi" $(Get-Process | Select-Object -Property Name, Id, StartTime | Sort-Object -Property StartTime | select -Last 10)
 Valjasta 10 "Arvuti kuupäev ja kellaaeg" (Get-Date)
-
-
-'''
+```
