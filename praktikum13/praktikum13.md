@@ -1,4 +1,5 @@
-#praktikum13
+# Praktikum13
+Selles praktikumis tegelesin skriptimisega windowsis. <br>
 ```
 #$nr:	küsimuse number
 #$param: mis parameetriga tegemist (võimalikult lühidalt)
